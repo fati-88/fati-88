@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there! I'm Fatima Zahra 👋
 
-<!--
-**fati-88/fati-88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 14-year-old future software developer from Morocco 🇲🇦, currently learning Python and working on beginner-friendly projects.  
+I love building things that make life easier and help others.
 
-Here are some ideas to get you started:
+🧠 I'm passionate about:
+- Python programming 🐍
+- App development for Android 📱
+- Creative problem solving
+- Learning new things every day
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently learning:
+- Python (working on my first book!) 📘
+- Git & GitHub
+- English, French, and Spanish 🌍
+
+🚀 My goals:
+- Publish useful and fun apps on the Play Store
+- Write and release my own Python book for beginners
+- Share my projects and journey with the world
+
+📬 Let's connect and grow together!
