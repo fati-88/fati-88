@@ -1,16 +1,32 @@
-<h1 align="center">Hi, I'm Fati 👩‍💻</h1>
+<h1 align="center">🐱✨ Hey, I'm Fati!</h1>
 
 <p align="center">
-  Passionate about AI, Python, and digital creativity.  
-  Currently building cool projects & sharing my coding journey.
+  A creative soul blending <strong>Python</strong>, <strong>technology</strong> and a bit of 🐾 <em>cat energy</em>.
 </p>
 
 ---
 
-### 💼 About Me
+### 🧩 About Me
 
-- 🧠 Self-taught Python learner  
-- 📱 Working on mobile-friendly apps using Python (Tkinter, Kivy)  
-- 📘 Writing my first book about Python for beginners  
-- 🌐 Trilingual: French, English, Arabic  
-- 🎯 Focused on publishing apps to the Play
+- 💻 Python is my playground  
+- 📘 I'm writing a beginner-friendly book about Python  
+- 📱 I dream of publishing mobile apps on the Play Store  
+- 🌍 I speak French, English, and Arabic  
+- 💬 Learning Spanish too – porque sí, me encanta 🧠🇪🇸  
+- 🐾 I believe tech can be both elegant and powerful
+
+---
+
+### 🌸 What I'm Building
+
+- 🧠 Smart mini tools with Python  
+- 📲 Cute & clean GUI apps using Tkinter  
+- 📚 A guidebook for young coders, by a young coder  
+- 🧪 Little experiments that make learning fun!
+
+---
+
+### 💻 Tech I Use
+
+```bash
+🐍 Python | 🖼 Tkinter | 🧠 Logic | 🌐 Git & GitHub
