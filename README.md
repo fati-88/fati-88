@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120" alt="Coding animation" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" alt="Cute cat coding" />
 </p>
 
 <h1 align="center">🐱✨ Hey, I'm Fati!</h1>
